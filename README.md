@@ -10,3 +10,5 @@ Sample website with plenty of files for demos
 ovo je test
 ##Copyright
 Copy214124
+#how to contribute
+Please fork this repo and then issue pull requests
