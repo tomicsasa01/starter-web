@@ -8,6 +8,7 @@ Sample website with plenty of files for demos
 
 ##edit jedan
 ovo je test
+test2
 ##Copyright
 Copy214124
 #how to contribute
